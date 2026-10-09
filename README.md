@@ -313,6 +313,16 @@ Set the forwarding weights back to 100 for `TG-Blue` and 0 for `TG-Green`.
 
 This project provides practical experience with AWS networking, EC2 User Data, Apache, target groups, Application Load Balancers, weighted forwarding, canary releases, and rollback procedures. It demonstrates how to reduce release risk by testing a new version before directing all traffic to it.
 
+# 👨‍💻 Author
+
+**Sameer Thaware**
+
+**DevOps Engineer**
+
+- LinkedIn: www.linkedin.com/in/avishkar-thorve-a77a8b2a1
+- GitHub: https://github.com/Avishkar5658
+
+
 ---
 
 <div align="center">
