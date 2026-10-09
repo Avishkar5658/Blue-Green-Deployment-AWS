@@ -315,9 +315,7 @@ This project provides practical experience with AWS networking, EC2 User Data, A
 
 # 👨‍💻 Author
 
-**Sameer Thaware**
-
-**DevOps Engineer**
+**Avishkar Thorave**
 
 - LinkedIn: www.linkedin.com/in/avishkar-thorve-a77a8b2a1
 - GitHub: https://github.com/Avishkar5658
