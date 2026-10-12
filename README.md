@@ -398,7 +398,7 @@ Blue-Green-Deployment-AWS/
 │   ├── green-target-group-healthy.png
 │   ├── weights-80-20.png
 │   └── demo.gif
-└── user-data/
+└── EC2 Scripts Files/
     ├── blue.sh        # Version 1 setup script
     └── green.sh       # Version 2 setup script
 ```
