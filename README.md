@@ -22,7 +22,7 @@
 
 ## 📑 Table of Contents
 
-1. [The Problem (in plain English)](#-the-problem-in-plain-english)
+1. [The Problem (in plain English)]
 2. [The Solution](#-the-solution)
 3. [Architecture](#-architecture)
 4. [AWS Services Used and Why](#-aws-services-used-and-why)
